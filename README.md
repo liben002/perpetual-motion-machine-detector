@@ -10,4 +10,4 @@ As far as I can tell, no one has ever tried to create such a device, probably be
 
 # Circuit Diagram
 
-![alt text](https://github.com/liben002/perpetual-motion-machine-detector/blob/master/resources/perpetual_motion_machine_circuit.jpg?raw=true)
+![alt text](https://github.com/liben002/perpetual-motion-machine-detector/blob/master/resources/perpetual_motion_machine_circuit.png?raw=true)
