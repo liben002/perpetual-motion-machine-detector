@@ -71,36 +71,6 @@ void loop() {
   lcd.print(result_message_bottom);
 
   delay(5000);
-
-  
-//  scan_button_state = digitalRead(scan_button_pin);
-//  // put your main code here, to run repeatedly:
-//  if (stage == 0) {
-//    lcd.setCursor(0,0);
-//    lcd.print(base_message_top);
-//    lcd.setCursor(0,1);
-//    lcd.print(base_message_bottom);
-//  } else if (stage == 1) {
-//    lcd.setCursor(0,0);
-//    lcd.print(scan_message);
-//    beep(tone_freq, 200);
-//    beep(tone_freq, 200);
-//    beep(tone_freq, 1000);
-//    stage = 2;
-//  } else {
-//    lcd.setCursor(0,0);
-//    lcd.print(result_message_top);
-//    lcd.setCursor(0,1);
-//    lcd.print(result_message_bottom);
-//    scan_ready = true;
-//    stage = 0;
-//    delay(5000);
-//  }
-//
-//  if (scan_button_state == HIGH && scan_ready) {
-//    stage = 1;
-//    scan_ready = false;
-//  }
 }
 
 void beep(int note, int duration) {
